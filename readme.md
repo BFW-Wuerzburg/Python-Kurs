@@ -1,6 +1,6 @@
 # Python lernen
 
-Sie haben den [barrierefreien eLearning-Python-Kurs](https://www.bfwonline.de/indexmobile/showCourse/CourseId/20257) für blinde und sehbehinderte Nutzerinnen und Nutzer des BFW Würzburg absolviert und erfolgreich die Grundlagen der Programmiersprache Python erlernt.
+Sie haben den [barrierefreien eLearning-Python-Kurs](https://www.bfwonline.de/indexmobile/showCourse/CourseId/20257) für blinde und sehbehinderte Nutzerinnen und Nutzer des [BFW Würzburg](https://www.bfw-wuerzburg.de) absolviert und erfolgreich die Grundlagen der Programmiersprache Python erlernt.
 
 Nachfolgend finden Sie einige ergänzende Informationen, die Ihnen beim weiteren Arbeiten mit Python hilfreich sein könnten:
 
